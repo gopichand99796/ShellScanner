@@ -1,0 +1,235 @@
+[2026-06-14 10:57:28] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 10:57:28] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 10:57:28] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:02:02] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:02:02] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 11:02:02] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 11:02:02] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:02:02] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:02:02] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:02:02] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:30:29] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:30:29] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:30:29] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:34:51] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:34:51] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:39:36] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:39:36] [WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:45:17] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:45:17] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:45:17] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:45:17] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:45:17] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:17] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/malware Unexpected binary executable
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:45:18] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:45:18] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:45:18] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:45:18] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:45:18] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/malware Unexpected binary executable
+[2026-06-14 11:45:18] [WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/malware Unexpected binary executable
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/all_threats.sh contains dangerous command
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/all_threats.sh contains suspicious download execution
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/all_threats.sh contains reverse shell pattern
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: PASSWORD=secret123
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: KEY = value
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: SERVER-NAME=x
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: USER="admin"
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: export PATH=$PATH:/tmp
+[2026-06-14 11:47:56] [SKIP] test_data/dangerous/.env Rejected: TOKEN=abc
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env Valid: 3, Invalid: 6
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [INFO] test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized Valid: 3, Invalid: 0
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:2:const apiKey = "sk-abc123324md";
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/server.js:3:const password = "supersecret";
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/app.py:1:token = "ghp_abcdef123456789"
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/malware Unexpected binary executable
+[2026-06-14 11:47:56] [WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String

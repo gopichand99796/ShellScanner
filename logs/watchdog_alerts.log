@@ -1,0 +1,36 @@
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[WARN] test_data/dangerous/malware Unexpected binary executable
+[WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
+[WARN] test_data/dangerous/all_threats.sh _ Reason: Dangerous command found
+[WARN] test_data/dangerous/all_threats.sh _ Reason: Suspicious download execution
+[WARN] test_data/dangerous/all_threats.sh _ Reason: Reverse shell pattern
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized
+[INFO] Sanitized test_data/dangerous/.env.sanitized.sanitized.sanitized.sanitized.sanitized.sanitized
+[WARN] test_data/dangerous/server.js:2 Hardcoded secret detected
+[WARN] test_data/dangerous/server.js:3 Hardcoded secret detected
+[WARN] test_data/dangerous/app.py:1 Hardcoded secret detected
+[WARN] test_data/dangerous/malware Unexpected binary executable
+[WARN] test_data/dangerous/payload.py:1 Suspicious Base64/High Entropy String
